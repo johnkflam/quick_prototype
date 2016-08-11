@@ -1,4 +1,4 @@
 *.csv
 *.pyc
-*.txt
+
 # **/dir ignore directory
